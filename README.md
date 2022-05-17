@@ -15,6 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 </p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sau1o&show_icons=true" alt="sau1o"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sau1o&show_icons=true" alt="sau1o"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sau1o&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
