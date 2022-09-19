@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... (still studying....)
 - 🤔 I’m looking for help with HTML, React and build my portfolio to get remote jobs
 - 💬 Ask me about how is a day of teacher, or about my sport (swimming)
-- 📫 How to reach me: coelho.saulo@gmail.com (soon my web site)
+- 📫 How to reach me: www.saulocoelho.dev.br
 - ⚡ Fun fact: as a hobby, I take piano lessons
 
 <p align="center">
